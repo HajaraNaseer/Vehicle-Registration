@@ -1,0 +1,57 @@
+header {
+  background-color: rgb(113, 113, 207);
+  right: 0;
+  top: 0;
+  left: 0;
+  position: fixed;
+  bottom: 90%;
+}
+.orgName {
+  font-style: italic;
+  padding-left: 100px;
+}
+.topic {
+  color: rgb(45, 45, 116);
+  text-align: left;
+}
+body {
+  background-color: rgb(171, 171, 250);
+}
+form {
+  margin-top: 100px;
+  margin-left: 250px;
+  font-weight: bold;
+  width: 30%;
+  text-align: left;
+  border: 1px solid black;
+  padding: 35px;
+  background-color: rgb(250, 244, 237);
+}
+input {
+  text-align: center;
+}
+button {
+  background-color: red;
+  align-items: center;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  margin: 2px;
+  font-weight: bold;
+}
+
+img {
+  float: right;
+  width: 350px;
+  height: 350px;
+}
+
+footer {
+  background-color: rgb(113, 113, 207);
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  padding: 0.5px;
+  text-align: center;
+  position: fixed;
+}
